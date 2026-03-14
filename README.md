@@ -208,8 +208,17 @@ Several improvements can be made to enhance this project:
 
 # References
 
-Daily Objects Around The World Dataset
-ResNet: Deep Residual Learning for Image Recognition
+[1] Humans in the Loop.  
+*Daily Objects Around The World Dataset.*  
+https://www.kaggle.com/datasets/humansintheloop/dollar-street-dataset
+
+[2] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton.  
+*ImageNet Classification with Deep Convolutional Neural Networks.*  
+Communications of the ACM, 2017.
+
+[3] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun.  
+*Deep Residual Learning for Image Recognition.*  
+CVPR, 2016.
 
 
 
